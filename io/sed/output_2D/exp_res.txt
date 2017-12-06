@@ -1,0 +1,1213 @@
+2D:
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 0
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 1
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 2
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 3
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 4
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 5
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 6
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 7
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 8
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 9
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 10
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 11
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 12
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 13
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 14
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 15
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 16
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 17
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 18
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 19
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 20
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 21
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 22
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 23
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 24
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 25
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 26
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 27
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 28
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 29
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 30
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 31
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 32
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 33
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 34
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 35
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 36
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 37
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 38
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 39
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 40
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 41
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 42
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 43
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 44
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 45
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 46
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 47
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 48
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 49
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 50
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 51
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 52
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 53
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 54
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 55
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 56
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 57
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 58
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 59
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 60
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 61
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 62
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 63
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 64
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 65
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 66
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 67
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 68
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 69
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 70
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 71
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 72
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 73
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 74
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 75
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 76
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 77
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 78
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 79
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 80
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 81
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 82
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 83
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 84
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 85
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 86
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 87
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 88
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 89
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 90
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 91
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 92
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 93
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 94
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 95
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 96
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 97
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 98
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 99
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 100
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 101
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 102
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 103
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 104
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 105
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 106
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 107
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 108
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 109
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 110
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 111
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 112
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 113
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 114
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 115
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 116
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 117
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 118
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 119
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 120
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 121
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 122
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 123
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 124
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 125
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 126
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 127
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 128
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 129
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 130
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 131
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 132
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 133
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 134
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 135
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 136
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 137
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 138
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 139
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 140
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 141
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 142
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 143
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 144
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 145
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 146
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 147
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 148
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 149
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 150
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 151
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 152
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 153
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 154
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 155
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 156
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 157
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 158
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 159
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 160
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 161
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 162
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 163
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 164
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 165
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 166
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 167
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 168
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 169
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 170
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 171
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 172
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 173
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 174
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 175
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 176
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 177
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 178
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 179
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 180
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 181
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 182
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 183
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 184
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 185
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 186
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 187
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 188
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 189
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 190
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 191
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 192
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 193
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 194
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 195
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 196
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 197
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 198
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 199
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 200
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 201
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 202
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 203
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 204
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 205
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 206
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 207
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 208
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 209
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 210
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 211
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 212
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 213
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 214
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 215
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 216
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 217
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 218
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 219
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 220
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 221
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 222
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 223
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 224
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 225
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 226
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 227
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 228
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 229
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 230
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 231
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 232
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 233
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 234
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 235
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 236
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 237
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 238
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 239
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 240
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 241
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 242
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 243
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 244
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 245
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 246
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 247
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 248
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 249
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 250
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 251
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 252
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 253
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 254
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 255
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 256
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 257
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 258
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 259
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 260
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 261
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 262
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 263
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 264
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 265
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 266
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 267
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 268
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 269
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 270
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 271
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 272
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 273
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 274
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 275
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 276
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 277
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 278
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 279
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 280
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 281
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 282
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 283
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 284
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 285
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 286
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 287
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 288
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 289
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 290
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 291
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 292
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 293
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 294
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 295
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 296
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 297
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 298
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 299
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 300
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 301
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 302
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 303
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 304
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 305
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 306
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 307
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 308
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 309
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 310
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 311
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 312
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 313
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 314
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 315
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 316
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 317
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 318
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 319
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 320
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 321
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 322
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 323
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 324
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 325
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 326
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 327
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 328
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 329
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 330
+Greedy algorithm cost: 120249.0
+Greedy algorithm coverage: 1215
+Greedy algorithm step: 331
+Greedy algorithm cost: 120252.0
+Greedy algorithm coverage: 1219
+Greedy algorithm step: 332
+Greedy algorithm cost: 122062.0
+Greedy algorithm coverage: 1223
+Greedy algorithm step: 333
+Greedy algorithm cost: 122091.0
+Greedy algorithm coverage: 1226
+Greedy algorithm step: 334
+Greedy algorithm cost: 122145.0
+Greedy algorithm coverage: 1229
+Greedy algorithm step: 335
+Greedy algorithm cost: 123884.0
+Greedy algorithm coverage: 1232
+Greedy algorithm step: 336
+Greedy algorithm cost: 126891.0
+Greedy algorithm coverage: 1235
+Greedy algorithm step: 337
+Greedy algorithm cost: 130311.0
+Greedy algorithm coverage: 1238
+Greedy algorithm step: 338
+Greedy algorithm cost: 130313.0
+Greedy algorithm coverage: 1240
+Greedy algorithm step: 339
+Greedy algorithm cost: 133689.0
+Greedy algorithm coverage: 1242
+Greedy algorithm step: 340
+Greedy algorithm cost: 139248.0
+Greedy algorithm coverage: 1244
+Greedy algorithm step: 341
+Greedy algorithm cost: 140274.0
+Greedy algorithm coverage: 1246
+Greedy algorithm step: 342
+Greedy algorithm cost: 140307.0
+Greedy algorithm coverage: 1247
+Greedy algorithm step: 343
+Greedy algorithm cost: 147430.0
+Greedy algorithm coverage: 1248
+Greedy algorithm step: 344
+Greedy algorithm cost: 149248.0
+Greedy algorithm coverage: 1249
+Greedy algorithm step: 345
+Greedy algorithm cost: 149275.0
+Greedy algorithm coverage: 1250
+Greedy algorithm step: 346
+Greedy algorithm cost: 152798.0
+Greedy algorithm coverage: 1251
+Greedy algorithm step: 347
+Greedy algorithm cost: 3576.0
+Greedy algorithm coverage: 793
+Greedy algorithm step: 348
+Greedy algorithm cost: 99377.0
+Greedy algorithm coverage: 947
+Greedy algorithm step: 349
+Greedy algorithm cost: 102908.0
+Greedy algorithm coverage: 1037
+Greedy algorithm step: 350
+Greedy algorithm cost: 104405.0
+Greedy algorithm coverage: 1099
+Greedy algorithm step: 351
+Greedy algorithm cost: 106144.0
+Greedy algorithm coverage: 1125
+Greedy algorithm step: 352
+Greedy algorithm cost: 109520.0
+Greedy algorithm coverage: 1146
+Greedy algorithm step: 353
+Greedy algorithm cost: 109762.0
+Greedy algorithm coverage: 1163
+Greedy algorithm step: 354
+Greedy algorithm cost: 111501.0
+Greedy algorithm coverage: 1179
+Greedy algorithm step: 355
+Greedy algorithm cost: 113240.0
+Greedy algorithm coverage: 1191
+Greedy algorithm step: 356
+Greedy algorithm cost: 113290.0
+Greedy algorithm coverage: 1198
+Greedy algorithm step: 357
+Greedy algorithm cost: 116771.0
+Greedy algorithm coverage: 1204
+Greedy algorithm step: 358
+Greedy algorithm cost: 118510.0
+Greedy algorithm coverage: 1210
+Greedy algorithm step: 359
+main Running algorithm: AdditionalGreedy, problem: TestingPrioritizationProblem, time: 26 seconds.
+0.7872670873215789
+Experiment directory exists
+Experiment directory is a directory
+Experiment: Name: TestingPrioritizationStudy
+Experiment: creating 1 threads
+Experiment: Number of algorithms: 1
+Experiment: Number of problems: 1
+Experiment: 2Ds: 20
+Experiment: Experiment directory: D:\Documents\Unisa - phd\Netbeans workspace\jMetal\io\seds\output\
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Creating D:\Documents\Unisa - phd\Netbeans workspace\jMetal\io\seds\output\/data/PGGA/TestingPrioritizationProblem
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 0, time: 22 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 1, time: 22 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 2, time: 20 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 3, time: 19 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 4, time: 18 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 5, time: 19 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 6, time: 16 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 7, time: 21 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 8, time: 18 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 9, time: 17 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 10, time: 19 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 11, time: 20 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 12, time: 19 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 13, time: 19 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 14, time: 20 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 15, time: 20 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 16, time: 22 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 17, time: 19 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 18, time: 23 seconds.
+Read 78120 elements from the coverage matrix.
+Read 360 elements from the cost array.
+Cores: 4
+Evaluations: 25090
+Thread-0 2Dning algorithm: PGGA, problem: TestingPrioritizationProblem, 2D: 19, time: 18 seconds.
+Creating D:\Documents\Unisa - phd\Netbeans workspace\jMetal\io\seds\output\/referenceFronts
+Experiment - Quality indicator: HV
+File D:\Documents\Unisa - phd\Netbeans workspace\jMetal\io\seds\output\/data/PGGA/TestingPrioritizationProblem/HV does NOT exist.
+Experiment - Quality indicator: SPREAD
+File D:\Documents\Unisa - phd\Netbeans workspace\jMetal\io\seds\output\/data/PGGA/TestingPrioritizationProblem/SPREAD does NOT exist.
+Experiment - Quality indicator: EPSILON
+File D:\Documents\Unisa - phd\Netbeans workspace\jMetal\io\seds\output\/data/PGGA/TestingPrioritizationProblem/EPSILON does NOT exist.
+latex directory: D:\Documents\Unisa - phd\Netbeans workspace\jMetal\io\seds\output\\latex
+Creating D:\Documents\Unisa - phd\Netbeans workspace\jMetal\io\seds\output\\latex directory
+R    : D:\Documents\Unisa - phd\Netbeans workspace\jMetal\io\seds\output\/R
+Creating D:\Documents\Unisa - phd\Netbeans workspace\jMetal\io\seds\output\/R directory
+Indicator: HV
+Indicator: SPREAD
+Indicator: EPSILON
+R    : D:\Documents\Unisa - phd\Netbeans workspace\jMetal\io\seds\output\/R
+Indicator: HV
+Indicator: SPREAD
+Indicator: EPSILON
+BUILD SUCCESSFUL (total time: 7 minutes 22 seconds)
